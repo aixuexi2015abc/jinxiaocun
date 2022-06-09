@@ -1,0 +1,16 @@
+{
+  "id": "3241462",
+  "name": "进销存管理软件",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1277254",
+      "name": "password",
+      "font_class": "password",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
